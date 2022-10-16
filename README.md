@@ -55,7 +55,7 @@ Depending on how you have Python configured on your machine, you would run it wi
 
 The whole process should look like this:
 
-![](https://github.com/anairinac/gpsconvert/images/gpsconvert.gif)
+![](https://github.com/anairinac/gpsconvert/blob/main/images/gpsconvert.gif)
 
 
 <!-- CONTRIBUTING -->
